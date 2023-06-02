@@ -3,7 +3,7 @@ Hi 👋 My name is Vincent Justin
 
 * 🌍  I'm based in Liege, Belgium 🇧🇪
 * 🖥️  See my portfolio at [My portfolio](http://justin-vincent.be)
-* ✉️  You can contact me at [justin.20cen@gmail.com](mailto:justin.20cen@gmail.com)
+* ✉️  You can contact me at [dev@justin-vincent.be](mailto:dev@justin-vincent.be)
 
 ### Skills
 
